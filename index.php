@@ -14,5 +14,5 @@ p { font-size: 1.2em; }
 <h1>الذين إن مكناهم في الأرض أقاموا الصلاة وآتوا الزكاة وأمروا بالمعروف ونهوا عن المنكر</h1>
 <p>Al-Ma'idah 5:54</p>
 <p>Last Man Standing</p>
-</body>
-</html>
+<body>
+<html>
